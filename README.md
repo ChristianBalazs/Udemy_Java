@@ -5,3 +5,7 @@ Opted for Tim Buchalka course
 This is an extensive course
 The aim is to finish all the lessons (over 200) by the end of Dec 2021.
 Here we go :) 
+
+Update 5/11/2021
+Curent stage : Chapter 3, Lesson 12 - Floating Point Precision
+Enjoying the course so far :) 
