@@ -59,6 +59,12 @@ public class LogicalAndOperator {
 		
 		
 		
+		// to make code easier to read, can use () around each operand
+		// example:
+		if ((firstScore > secondScore) && (firstScore <90)) {
+			System.out.println("Greater than secondScore and less than 90");
+		}
+		
 		
 		
 		
