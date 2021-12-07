@@ -8,6 +8,7 @@ public class Casting {
 		byte myMinByteValue = Byte.MIN_VALUE;
 		short myMinShortValue = Short.MIN_VALUE;
 		
+		System.out.println(myMinIntValue); // get -2147483648
 		
 		int myTotal = (myMinIntValue / 2);
 		
