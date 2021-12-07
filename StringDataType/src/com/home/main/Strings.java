@@ -54,10 +54,12 @@ public class Strings {
 		doubleNumber = doubleNumber + myInt;
 		System.out.println(doubleNumber); // get 170.47
 		
+		System.out.println("doubleNumber is: " + doubleNumber);
 		
 		//Strings are immutable
 		
 		// When using + plus operator with Strings it will append one text to another text 	
+		
 		
 		
 		
